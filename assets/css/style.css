@@ -1,0 +1,8 @@
+
+body {
+    background-color: black;
+}
+.banner {
+    background-image: url(../assets/images/banner.png);
+    background-repeat: no-repeat;
+}
